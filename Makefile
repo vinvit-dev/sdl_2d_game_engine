@@ -1,6 +1,6 @@
-OBGS = main.cpp
+OBGS = main.cpp Game.cpp
 
-LIBS = -lSDL2
+LIBS = -lSDL2 -lSDL2_image
 
 OBG = out
 
